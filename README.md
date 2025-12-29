@@ -62,7 +62,7 @@ Learning • Testing • Securing
 ## 📈 ACTIVITY GRAPH
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PR4NKS&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CYGN0D&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&hide_border=true" alt="Activity Graph" />
 </p>
 
 ## 🧠 AREAS OF INTEREST
